@@ -1,0 +1,22 @@
+c:\users\михаил\documents\visual studio 2017\Projects\HomeTask12\HomeTask12\bin\Debug\HomeTask12.exe.config
+c:\users\михаил\documents\visual studio 2017\Projects\HomeTask12\HomeTask12\bin\Debug\HomeTask12.exe
+c:\users\михаил\documents\visual studio 2017\Projects\HomeTask12\HomeTask12\bin\Debug\HomeTask12.pdb
+c:\users\михаил\documents\visual studio 2017\Projects\HomeTask12\HomeTask12\bin\Debug\HtmlDownLoader.dll
+c:\users\михаил\documents\visual studio 2017\Projects\HomeTask12\HomeTask12\bin\Debug\HtmlAgilityPack.dll
+c:\users\михаил\documents\visual studio 2017\Projects\HomeTask12\HomeTask12\bin\Debug\HtmlDownLoader.pdb
+c:\users\михаил\documents\visual studio 2017\Projects\HomeTask12\HomeTask12\bin\Debug\HtmlAgilityPack.pdb
+c:\users\михаил\documents\visual studio 2017\Projects\HomeTask12\HomeTask12\bin\Debug\HtmlAgilityPack.xml
+c:\users\михаил\documents\visual studio 2017\Projects\HomeTask12\HomeTask12\obj\Debug\HomeTask12.csprojResolveAssemblyReference.cache
+c:\users\михаил\documents\visual studio 2017\Projects\HomeTask12\HomeTask12\obj\Debug\HomeTask12.exe
+c:\users\михаил\documents\visual studio 2017\Projects\HomeTask12\HomeTask12\obj\Debug\HomeTask12.pdb
+D:\HomeTask12\HomeTask12\bin\Debug\HomeTask12.exe.config
+D:\HomeTask12\HomeTask12\bin\Debug\HomeTask12.exe
+D:\HomeTask12\HomeTask12\bin\Debug\HomeTask12.pdb
+D:\HomeTask12\HomeTask12\bin\Debug\HtmlDownLoader.dll
+D:\HomeTask12\HomeTask12\bin\Debug\HtmlAgilityPack.dll
+D:\HomeTask12\HomeTask12\bin\Debug\HtmlDownLoader.pdb
+D:\HomeTask12\HomeTask12\bin\Debug\HtmlAgilityPack.pdb
+D:\HomeTask12\HomeTask12\bin\Debug\HtmlAgilityPack.xml
+D:\HomeTask12\HomeTask12\obj\Debug\HomeTask12.csprojResolveAssemblyReference.cache
+D:\HomeTask12\HomeTask12\obj\Debug\HomeTask12.exe
+D:\HomeTask12\HomeTask12\obj\Debug\HomeTask12.pdb

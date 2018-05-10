@@ -1,0 +1,16 @@
+c:\users\михаил\documents\visual studio 2017\Projects\HomeTask12\HtmlDownLoader\bin\Debug\HtmlDownLoader.dll
+c:\users\михаил\documents\visual studio 2017\Projects\HomeTask12\HtmlDownLoader\bin\Debug\HtmlDownLoader.pdb
+c:\users\михаил\documents\visual studio 2017\Projects\HomeTask12\HtmlDownLoader\bin\Debug\HtmlAgilityPack.dll
+c:\users\михаил\documents\visual studio 2017\Projects\HomeTask12\HtmlDownLoader\bin\Debug\HtmlAgilityPack.pdb
+c:\users\михаил\documents\visual studio 2017\Projects\HomeTask12\HtmlDownLoader\bin\Debug\HtmlAgilityPack.xml
+c:\users\михаил\documents\visual studio 2017\Projects\HomeTask12\HtmlDownLoader\obj\Debug\HtmlDownLoader.csprojResolveAssemblyReference.cache
+c:\users\михаил\documents\visual studio 2017\Projects\HomeTask12\HtmlDownLoader\obj\Debug\HtmlDownLoader.dll
+c:\users\михаил\documents\visual studio 2017\Projects\HomeTask12\HtmlDownLoader\obj\Debug\HtmlDownLoader.pdb
+D:\HomeTask12\HtmlDownLoader\bin\Debug\HtmlDownLoader.dll
+D:\HomeTask12\HtmlDownLoader\bin\Debug\HtmlDownLoader.pdb
+D:\HomeTask12\HtmlDownLoader\bin\Debug\HtmlAgilityPack.dll
+D:\HomeTask12\HtmlDownLoader\bin\Debug\HtmlAgilityPack.pdb
+D:\HomeTask12\HtmlDownLoader\bin\Debug\HtmlAgilityPack.xml
+D:\HomeTask12\HtmlDownLoader\obj\Debug\HtmlDownLoader.csprojResolveAssemblyReference.cache
+D:\HomeTask12\HtmlDownLoader\obj\Debug\HtmlDownLoader.dll
+D:\HomeTask12\HtmlDownLoader\obj\Debug\HtmlDownLoader.pdb
